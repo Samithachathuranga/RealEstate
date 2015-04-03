@@ -1,1 +1,10 @@
-gfghgjkhkh kj h ljkklhj kiuyuiyiby uy uy iy iuy iy
+Before run this application Please do this steps sir
+
+
+	AbsoluteLayout
+
+		in RealEstate.java ->  Design -> JFrame (right click) -> set layout -> select AbsoluteLayout (if absolutelayout selected please select it again)
+
+	Add library AnimatonClass.jar
+
+		please add AnimatonClass.jar in RealEstate hit hub to project sir
